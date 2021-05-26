@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaiKumar-Singh
 - 👀 I’m interested in Machine Learning, Deep Learning, Web Dev(MERN Stack/Full Stack).
 - 🌱 I’m currently learning to contribute.
-- 💞️ I’m looking to collaborate on Web Dev , ML, DL projects.
+- 💞️ I’m looking to collaborate on Web Devlopment , ML, DL projects.
 - 📫 How to reach me - jaikumar.m.singh@gmail.com.
 
 <!---
